@@ -2,7 +2,7 @@
 
 A tiny pixel fish that lives in your MacBook's notch area. It swims back and forth across the menu bar, hides behind the camera notch when you scare it with your mouse, and occasionally blows bubbles.
 
-<!-- ![NotchFish demo](screenshots/demo.gif) -->
+![NotchFish demo](NotchFish.gif)
 
 ## Features
 
